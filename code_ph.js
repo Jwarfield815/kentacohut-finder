@@ -22,7 +22,7 @@ async function crawlLinks(url, arrayToPush, linkIdentifier) {
             arrayToPush.push(fullLink);
         });
     } catch (error) {
-        fs.appendFile('./phErrorLocations.txt', url + '\r\n', err => {
+        fs.appendFile('./locations/pizzahut/phErrorLocations.txt', url + '\r\n', err => {
             if (err) {
                 console.log(chalk.red(`Error writing to file phErrorLocations.txt: ${err}`));
             }
@@ -42,19 +42,19 @@ async function fillUrlArray(fromArray, arrayToFill, linkIdentifier) {
 }
 
 async function bufferFunction() {
-    let phAllLocations = fs.createWriteStream('phAllLocations.txt');
+    let phAllLocations = fs.createWriteStream('./locations/pizzahut/phAllLocations.txt');
     phAllLocations.on('error', function(err) { console.log(chalk.red(err)); });
 
     for (const page of locations) {
         try {
             const response = await axios.get(page);
-            console.log("inside locations: " + page);
+            console.log("writing " + page + " to file");
             const $ = cheerio.load(response.data);
             const links = $('div.info-container > h1');
 
             phAllLocations.write(page + '\r\n');
         } catch (error) {
-            fs.appendFile('./phErrorLocations.txt', page + '\r\n', err => {
+            fs.appendFile('./locations/pizzahut/phErrorLocations.txt', page + '\r\n', err => {
                 if (err) {
                     console.log(chalk.red(`Error writing to file phErrorLocations.txt: ${err}`));
                 }
@@ -64,11 +64,11 @@ async function bufferFunction() {
     };
 }
 
-const crawler = async () => {
+export const crawler = async () => {
     try {
         await crawlLinks(pizzaHutUrl, stateUrls, '.Container > .border > .grid > div > a.Link[href]');
         await fillUrlArray(stateUrls, cityUrls, '.Container > .border > .grid > div > a.Link[href]');
-        await fillUrlArray(cityUrls, locations, '.Container > .grid > .flex > a.Link[href]');
+        await fillUrlArray(cityUrls, locations, '.Container > .grid > .flex > a.mb-4[href]');
 
         console.log(locations);
         console.log(chalk.yellow(locations.length));
@@ -78,9 +78,3 @@ const crawler = async () => {
         console.error(chalk.red(`Error fetching ${pizzaHutUrl}: ${error.message}`));
     }
 }
-
-// TODO 
-// save addresses of KFC and Pizza Hut restaurants too
-// when all locations are printed to files, write another script to compare addresses in each, and see if there are any addresses that match
-
-crawler();

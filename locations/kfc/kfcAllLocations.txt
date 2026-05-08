@@ -2,7 +2,6 @@ https://locations.kfc.com/al/albertville/7285-us-highway-431
 https://locations.kfc.com/al/alexander-city/955-airport-drive
 https://locations.kfc.com/al/anniston/2000-quintard-avenue
 https://locations.kfc.com/al/athens/205-us-highway-72-w
-https://locations.kfc.com/al/atmore/1225-south-main-street
 https://locations.kfc.com/al/attalla/500-cherry-street
 https://locations.kfc.com/al/auburn/1580-opelika-road
 https://locations.kfc.com/al/bessemer/1818-ninth-avenue-north
@@ -33,7 +32,6 @@ https://locations.kfc.com/al/moulton/11884-highway-157
 https://locations.kfc.com/al/muscle-shoals/1910-woodward-avenue
 https://locations.kfc.com/al/northport/1901-32nd-street
 https://locations.kfc.com/al/opelika/101-sixth-street-north
-https://locations.kfc.com/al/oxford/2024-u-s-highway-78-east
 https://locations.kfc.com/al/pelham/630-cahaba-valley-road
 https://locations.kfc.com/al/pell-city/703-23rd-st-n
 https://locations.kfc.com/al/piedmont/206-highway-278-bypass-east
@@ -76,11 +74,10 @@ https://locations.kfc.com/az/safford/1817-thatcher-boulevard
 https://locations.kfc.com/az/scottsdale/8050-e-indian-school-rd
 https://locations.kfc.com/az/show-low/180-n-white-mountain-road
 https://locations.kfc.com/az/sierra-vista/1060-fry-boulevard
+https://locations.kfc.com/az/sun-city/10801-west-grand-avenue
 https://locations.kfc.com/az/tempe/705-w-baseline-rd
 https://locations.kfc.com/az/tuba-city/maloney-and-spur
-https://locations.kfc.com/az/williams/800-n-grand-canyon-boulevard
 https://locations.kfc.com/ar/alma/469-highway-71-n
-https://locations.kfc.com/ar/batesville/1311-st-louis-street
 https://locations.kfc.com/ar/benton/522-n-east-street
 https://locations.kfc.com/ar/berryville/930-west-trimble
 https://locations.kfc.com/ar/blytheville/901-north-6th-street
@@ -90,7 +87,6 @@ https://locations.kfc.com/ar/cabot/1003-w-main
 https://locations.kfc.com/ar/camden/1440-us-highway-278-west
 https://locations.kfc.com/ar/clarksville/1240-south-rogers
 https://locations.kfc.com/ar/conway/2670-donaghey-street
-https://locations.kfc.com/ar/de-queen/603-e-collin-raye-drive
 https://locations.kfc.com/ar/el-dorado/433-w-hillsboro-street
 https://locations.kfc.com/ar/forrest-city/2700-n-washington-street
 https://locations.kfc.com/ar/greenwood/820-west-center
@@ -110,7 +106,6 @@ https://locations.kfc.com/ar/searcy/2504-e-race-street
 https://locations.kfc.com/ar/siloam-springs/1115-us-highway-412-w
 https://locations.kfc.com/ar/texarkana/4010-north-state-line-road
 https://locations.kfc.com/ar/trumann/504-hwy-63-&-speedway
-https://locations.kfc.com/ar/walnut-ridge/401-nw-4th-street
 https://locations.kfc.com/ar/warren/325-s-main-street
 https://locations.kfc.com/ar/west-helena/789-n-sebastian
 https://locations.kfc.com/ar/wynne/1913-n-falls
@@ -135,6 +130,7 @@ https://locations.kfc.com/ca/burbank/3530-w-victory-blvd
 https://locations.kfc.com/ca/calexico/213-east-cole-road
 https://locations.kfc.com/ca/camarillo/2350-las-posas-road
 https://locations.kfc.com/ca/campbell/1805-winchester-road
+https://locations.kfc.com/ca/canoga-park/21930-sherman-way
 https://locations.kfc.com/ca/canyon-country/19307-soledad-canyon-rd
 https://locations.kfc.com/ca/capitola/2120-41st-avenue
 https://locations.kfc.com/ca/carlsbad/745-carlsbad-village-drive
@@ -145,8 +141,8 @@ https://locations.kfc.com/ca/chico/1980-e-20th-street
 https://locations.kfc.com/ca/chino/12862-central-avenue
 https://locations.kfc.com/ca/chino-hills/4135-chino-hills-parkway
 https://locations.kfc.com/ca/chowchilla/1105-e-robertson-blvd
+https://locations.kfc.com/ca/clovis/198-west-shaw-avenue
 https://locations.kfc.com/ca/coachella/49950-harrison-st
-https://locations.kfc.com/ca/coalinga/451-e-elm-avenue
 https://locations.kfc.com/ca/colton/792-west-valley-blvd
 https://locations.kfc.com/ca/coronado/100-b-ave
 https://locations.kfc.com/ca/costa-mesa/465-e-17th-st
@@ -159,7 +155,6 @@ https://locations.kfc.com/ca/desert-hot-springs/13947-palm-drive
 https://locations.kfc.com/ca/diamond-bar/542-n-diamond-bar-blvd
 https://locations.kfc.com/ca/dinuba/333-monte-vista-drive
 https://locations.kfc.com/ca/downey/7865-east-florence-avenue
-https://locations.kfc.com/ca/duarte/1128-east-huntington-drive
 https://locations.kfc.com/ca/dublin/6797-village-parkway
 https://locations.kfc.com/ca/el-centro/1775-south-imperial
 https://locations.kfc.com/ca/el-monte/3814-north-peck-road
@@ -181,6 +176,7 @@ https://locations.kfc.com/ca/grass-valley/1983-nevada-city-hwy
 https://locations.kfc.com/ca/hanford/412-n-redington
 https://locations.kfc.com/ca/hawthorne/11523-hawthorne-blvd
 https://locations.kfc.com/ca/hayward/1299-west-tennyson-road
+https://locations.kfc.com/ca/hemet/2890-west-florida-avenue
 https://locations.kfc.com/ca/hesperia/16800-main-street
 https://locations.kfc.com/ca/highland/7347-boulder-avenue
 https://locations.kfc.com/ca/hollister/191-mccray-street
@@ -189,11 +185,11 @@ https://locations.kfc.com/ca/imperial-beach/1056-13th-st
 https://locations.kfc.com/ca/industry/17901-colima-road
 https://locations.kfc.com/ca/inglewood/2941-west-imperial-hwy
 https://locations.kfc.com/ca/jackson/531-highway-49
-https://locations.kfc.com/ca/kerman/157-south-madera
 https://locations.kfc.com/ca/king-city/1300-broadway-circle
 https://locations.kfc.com/ca/la-habra/450-north-harbor
 https://locations.kfc.com/ca/la-mirada/13970-imperial-highway
 https://locations.kfc.com/ca/la-puente/939-north-hacienda-blvd
+https://locations.kfc.com/ca/lake-elsinore/31257-riverside-drive
 https://locations.kfc.com/ca/lake-forest/24541-trabuco-road
 https://locations.kfc.com/ca/lakeside/12061-woodside-ave
 https://locations.kfc.com/ca/lakewood/4917-bellflower-blvd
@@ -223,6 +219,7 @@ https://locations.kfc.com/ca/national-city/840-highland-ave
 https://locations.kfc.com/ca/newark/5724-b-thornton-avenue
 https://locations.kfc.com/ca/norco/1330-hamner-avenue
 https://locations.kfc.com/ca/northridge/8644-balboa-blvd
+https://locations.kfc.com/ca/norwalk/10937-alondra-blvd
 https://locations.kfc.com/ca/novato/7145-redwood-boulevard
 https://locations.kfc.com/ca/oakdale/1560-east-f-street
 https://locations.kfc.com/ca/oroville/660-oro-dam-blvd-e
@@ -266,9 +263,8 @@ https://locations.kfc.com/ca/san-ysidro/4698-border-village-rd
 https://locations.kfc.com/ca/santa-barbara/515-n-milpas-st
 https://locations.kfc.com/ca/santa-clara/1353-el-camino-real
 https://locations.kfc.com/ca/santa-fe-springs/11464-telegraph-road
-https://locations.kfc.com/ca/santa-maria/2207-south-broadway
+https://locations.kfc.com/ca/santa-maria/2326-south-broadway
 https://locations.kfc.com/ca/santa-paula/150-e-harvard-blvd
-https://locations.kfc.com/ca/santee/8890-cuyamaca-st
 https://locations.kfc.com/ca/seaside/1175-fremont-boulevard
 https://locations.kfc.com/ca/selma/2438-mccall-avenue
 https://locations.kfc.com/ca/sepulveda/8800-sepulveda-blvd
@@ -277,7 +273,6 @@ https://locations.kfc.com/ca/south-el-monte/1927-north-durfee
 https://locations.kfc.com/ca/south-gate/3420-firestone-blvd
 https://locations.kfc.com/ca/south-lake-tahoe/3668-lake-tahoe-boulevard
 https://locations.kfc.com/ca/south-pasadena/1318-huntington-drive
-https://locations.kfc.com/ca/spring-valley/8330-paradise-valley-rd
 https://locations.kfc.com/ca/sun-city/26660-encanto-dr
 https://locations.kfc.com/ca/sun-valley/7617-vineland-avenue
 https://locations.kfc.com/ca/susanville/3010-riverside-drive
@@ -302,6 +297,7 @@ https://locations.kfc.com/ca/west-sacramento/812-westacre-road
 https://locations.kfc.com/ca/westminster/6641-westminster-blvd
 https://locations.kfc.com/ca/willows/226-n-humboldt-avenue
 https://locations.kfc.com/ca/windsor/6610-hembree-lane
+https://locations.kfc.com/ca/winnetka/20101-sherman-way
 https://locations.kfc.com/ca/woodcrest/18585-van-buren-blvd
 https://locations.kfc.com/ca/woodland/83-west-main-st
 https://locations.kfc.com/ca/yorba-linda/17580-yorba-linda
@@ -341,10 +337,12 @@ https://locations.kfc.com/ct/bloomfield/1000-blue-hills-avenue
 https://locations.kfc.com/ct/bristol/470-farmington-avenue
 https://locations.kfc.com/ct/canton/250-albany-turnpike
 https://locations.kfc.com/ct/cromwell/32-shunpike-road
+https://locations.kfc.com/ct/danbury/91-north-street
 https://locations.kfc.com/ct/danielson/578-providence-rd
 https://locations.kfc.com/ct/derby/7-pershing-drive
 https://locations.kfc.com/ct/east-hartford/300-burnside-avenue
 https://locations.kfc.com/ct/east-haven/650-main-street
+https://locations.kfc.com/ct/east-windsor/41-prospect-hill-rd
 https://locations.kfc.com/ct/groton/230-route
 https://locations.kfc.com/ct/hamden/1499-dixwell-avenue
 https://locations.kfc.com/ct/manchester/307-middle-turnpike-west
@@ -366,7 +364,6 @@ https://locations.kfc.com/ct/willimantic/1589-west-main-street
 https://locations.kfc.com/de/bear/220-fox-hunt-dr
 https://locations.kfc.com/de/camden/344-walmart-drive
 https://locations.kfc.com/de/dover/1030-forrest-avenue
-https://locations.kfc.com/de/georgetown/1-georgetown-plaza
 https://locations.kfc.com/de/middletown/584-middletown-warwick-road
 https://locations.kfc.com/de/new-castle/112-n-dupont-hwy
 https://locations.kfc.com/de/newark/1365-marrows-rd
@@ -399,6 +396,7 @@ https://locations.kfc.com/fl/dunnellon/11583-n-williams-st
 https://locations.kfc.com/fl/fern-park/349-e-semoran-boulevard
 https://locations.kfc.com/fl/florida-city/232-se-1st-avenue
 https://locations.kfc.com/fl/fort-walton-beach/500-mary-esther-cutoff
+https://locations.kfc.com/fl/fruit-cove/194-florida-13
 https://locations.kfc.com/fl/groveland/14405-monte-vista-road
 https://locations.kfc.com/fl/gulf-breeze/3850-gulf-breeze-parkway
 https://locations.kfc.com/fl/haines-city/35854-highway-27
@@ -411,13 +409,12 @@ https://locations.kfc.com/fl/inverness/1110-highway-41-north
 https://locations.kfc.com/fl/jensen-beach/3315-nw-federal-highway
 https://locations.kfc.com/fl/jupiter/6700-w-indiantown-rd
 https://locations.kfc.com/fl/la-belle/50-north-lee-street
-https://locations.kfc.com/fl/lady-lake/1005-bichara-blvd
 https://locations.kfc.com/fl/lake-city/313-sw-baya-drive
 https://locations.kfc.com/fl/lake-mary/3890-lake-emma-road
 https://locations.kfc.com/fl/lake-wales/885-us-highway-60-west
 https://locations.kfc.com/fl/lake-worth/4081-south-state-rd-7
 https://locations.kfc.com/fl/land-o'-lakes/21617-village-lakes-shopping-center
-https://locations.kfc.com/fl/land-o’lakes/17686-aprile-drive
+https://locations.kfc.com/fl/land-o’lakes/17750-aprile-dr
 https://locations.kfc.com/fl/lantana/1226-west-lantana
 https://locations.kfc.com/fl/lauderdale-lakes/3298-n-state-road-7
 https://locations.kfc.com/fl/leesburg/700-north-14th-street
@@ -431,12 +428,12 @@ https://locations.kfc.com/fl/melbourne/3000-lake-washington-road
 https://locations.kfc.com/fl/merritt-island/155-east-merritt-island-causeway
 https://locations.kfc.com/fl/middleburg/2693-blanding-blvd
 https://locations.kfc.com/fl/mount-dora/16800-w-new-hwy-441
-https://locations.kfc.com/fl/naples/12225-collier-boulevard
 https://locations.kfc.com/fl/navarre/8688-navarre-parkway
 https://locations.kfc.com/fl/niceville/205-w-john-sims-parkway
 https://locations.kfc.com/fl/north-fort-myers/13160-highway-41-north
 https://locations.kfc.com/fl/north-lauderdale/7107-w-mcnab-road
 https://locations.kfc.com/fl/north-palm-beach/2561-northlake-blvd
+https://locations.kfc.com/fl/north-port/5682-tuscola-blvd
 https://locations.kfc.com/fl/oakland-park/2101-w-oakland-blvd
 https://locations.kfc.com/fl/oldsmar/3144-tampa-rd
 https://locations.kfc.com/fl/orange-city/914-saxon-blvd
@@ -465,6 +462,7 @@ https://locations.kfc.com/fl/riviera-beach/1581-w-blue-heron-blvd
 https://locations.kfc.com/fl/rockledge/1842-rockledge-blvd
 https://locations.kfc.com/fl/royal-palm-beach/667-royal-palm-beach-blvd
 https://locations.kfc.com/fl/ruskin/3102-college-avenue-east
+https://locations.kfc.com/fl/sarasota/6301-15th-street-e
 https://locations.kfc.com/fl/sebastian/1809-us-highway-1
 https://locations.kfc.com/fl/sebring/960-us-highway-27-n
 https://locations.kfc.com/fl/seffner/803-dr-martin-luther-king-boulevard
@@ -474,6 +472,7 @@ https://locations.kfc.com/fl/sunrise/2491-north-university-dr
 https://locations.kfc.com/fl/tamarac/7556-nw-58th-street
 https://locations.kfc.com/fl/the-villages/3860-wedgewood-lane
 https://locations.kfc.com/fl/titusville/4670-south-street
+https://locations.kfc.com/fl/trinity/3154-disciple-lane
 https://locations.kfc.com/fl/umatilla/939-n-central-ave
 https://locations.kfc.com/fl/vero-beach/4040-20th-street
 https://locations.kfc.com/fl/wauchula/899-s-sixth-avenue
@@ -579,6 +578,7 @@ https://locations.kfc.com/hi/kailua/11-kainehe-street
 https://locations.kfc.com/hi/kaneohe/45-480-kaneohe-bay-dr
 https://locations.kfc.com/hi/kapolei/590-farrington-hwy-3
 https://locations.kfc.com/hi/lihue/3229-kuhio-highway
+https://locations.kfc.com/hi/waianae/85-054-kaupuni
 https://locations.kfc.com/hi/waipahu/94-801-lumiaina-street
 https://locations.kfc.com/id/burley/243-overland-avenue
 https://locations.kfc.com/id/caldwell/5102-e-cleveland-boulevard
@@ -595,7 +595,6 @@ https://locations.kfc.com/id/twin-falls/1549-blue-lakes-boulevard-north
 https://locations.kfc.com/il/algonquin/415-south-randall-road
 https://locations.kfc.com/il/alton/2994-homer-adams-parkway
 https://locations.kfc.com/il/anna/1195-e-vienna-street
-https://locations.kfc.com/il/antioch/325-w-il-route-173
 https://locations.kfc.com/il/bartlett/960-s-state-route-59
 https://locations.kfc.com/il/benton/634-west-main-street
 https://locations.kfc.com/il/berwyn/6200-cermak-rd
@@ -647,7 +646,6 @@ https://locations.kfc.com/il/montgomery/1701-douglas-road
 https://locations.kfc.com/il/morris/1806-n-division-st
 https://locations.kfc.com/il/mount-prospect/1470-s-elmhurst-rd
 https://locations.kfc.com/il/mount-vernon/1-times-square-mall
-https://locations.kfc.com/il/murphysboro/515-walnut
 https://locations.kfc.com/il/new-lenox/340-maple-street
 https://locations.kfc.com/il/o'fallon/1717-west-highway-50
 https://locations.kfc.com/il/oak-lawn/10428-south-cicero
@@ -670,7 +668,6 @@ https://locations.kfc.com/il/waukegan/1400-n-lewis-ave
 https://locations.kfc.com/il/west-chicago/335-neltnor-blvd
 https://locations.kfc.com/il/westchester/9950-w-roosevelt-road
 https://locations.kfc.com/il/wheeling/150-e-dundee-road
-https://locations.kfc.com/il/zion/2359-sheridan-road
 https://locations.kfc.com/in/anderson/6620-south-scatterfield-road
 https://locations.kfc.com/in/angola/618-north-wayne-street
 https://locations.kfc.com/in/auburn/1101-west-7th-street
@@ -708,7 +705,6 @@ https://locations.kfc.com/in/nappanee/1956-east-market-street
 https://locations.kfc.com/in/new-castle/1595-south-memorial-drive
 https://locations.kfc.com/in/noblesville/400-sheridan-rd
 https://locations.kfc.com/in/north-vernon/1850-north-state-street
-https://locations.kfc.com/in/paoli/925-n-gospel-street
 https://locations.kfc.com/in/plainfield/2493-east-main-street
 https://locations.kfc.com/in/plymouth/1401-north-michigan-street
 https://locations.kfc.com/in/remington/4280-west-us-24
@@ -736,11 +732,11 @@ https://locations.kfc.com/ia/altoona/2639-adventureland-dr
 https://locations.kfc.com/ia/ankeny/918-e-1st-street
 https://locations.kfc.com/ia/atlantic/905-w-seventh-street
 https://locations.kfc.com/ia/burlington/345-north-roosevelt-road
-https://locations.kfc.com/ia/cedar-falls/6104-university-avenue
 https://locations.kfc.com/ia/centerville/306-east-maple
 https://locations.kfc.com/ia/clear-lake/10-plaza-drive
 https://locations.kfc.com/ia/clinton/924-n-2nd-street
 https://locations.kfc.com/ia/clive/11406-forest-avenue
+https://locations.kfc.com/ia/dubuque/1725-john-f-kennedy-road
 https://locations.kfc.com/ia/fort-dodge/3057-first-avenue-s
 https://locations.kfc.com/ia/fort-madison/1421-avenue-h
 https://locations.kfc.com/ia/grinnell/229-west-street
@@ -748,7 +744,6 @@ https://locations.kfc.com/ia/iowa-city/130-highway-1-west
 https://locations.kfc.com/ia/keokuk/3010-main-street
 https://locations.kfc.com/ia/mason-city/1615-4th-street-southwest
 https://locations.kfc.com/ia/mount-pleasant/701-wohlleber-drive
-https://locations.kfc.com/ia/muscatine/2515-park-avenue
 https://locations.kfc.com/ia/newton/1300-west-18th-street-south
 https://locations.kfc.com/ia/osceola/107-ariel-circle
 https://locations.kfc.com/ia/oskaloosa/408-a-ave-w
@@ -761,9 +756,6 @@ https://locations.kfc.com/ks/andover/323-north-andover-road
 https://locations.kfc.com/ks/bonner-springs/14-north-130th
 https://locations.kfc.com/ks/coffeyville/215-w-11th-street
 https://locations.kfc.com/ks/derby/1260-north-nelson-drive
-https://locations.kfc.com/ks/dodge-city/1210-west-wyatt-earp-boulevard
-https://locations.kfc.com/ks/el-dorado/2003-west-central
-https://locations.kfc.com/ks/garden-city/2208-east-kansas-avenue
 https://locations.kfc.com/ks/gardner/651-east-main-street
 https://locations.kfc.com/ks/great-bend/2917-west-tenth
 https://locations.kfc.com/ks/hays/2804-north-vine-street
@@ -905,7 +897,6 @@ https://locations.kfc.com/md/fort-washington/9598-livingston-rd
 https://locations.kfc.com/md/gaithersburg/426-n-frederick-ave
 https://locations.kfc.com/md/germantown/19650-gunners-branch-road
 https://locations.kfc.com/md/hagerstown/17700-garland-groh-blvd
-https://locations.kfc.com/md/hampstead/2309-hanover-pike
 https://locations.kfc.com/md/hyattsville/5401-ager-road
 https://locations.kfc.com/md/la-plata/rt-301-&-rt-6
 https://locations.kfc.com/md/landover/6701-martin-luther-king-jr-hwy
@@ -953,6 +944,7 @@ https://locations.kfc.com/ma/lynn/720-lynnway
 https://locations.kfc.com/ma/malden/75-broadway
 https://locations.kfc.com/ma/methuen/212-haverhill-street
 https://locations.kfc.com/ma/milford/15-medway-road
+https://locations.kfc.com/ma/northampton/203-king-street
 https://locations.kfc.com/ma/norwell/11-washington-st
 https://locations.kfc.com/ma/quincy/707-hancock-st
 https://locations.kfc.com/ma/roslindale/625-american-legion-hwy
@@ -1065,7 +1057,6 @@ https://locations.kfc.com/mi/woodhaven/16177-west-road
 https://locations.kfc.com/mi/ypsilanti/39-e-michigan-avenue
 https://locations.kfc.com/mn/albert-lea/2221-e-main-street
 https://locations.kfc.com/mn/alexandria/4515-highway-29-south
-https://locations.kfc.com/mn/anoka/711-west-main-street
 https://locations.kfc.com/mn/apple-valley/7641-150th-street-w
 https://locations.kfc.com/mn/austin/1401-18th-ave-nw
 https://locations.kfc.com/mn/baxter/14430-dellwood-drive
@@ -1171,7 +1162,6 @@ https://locations.kfc.com/mo/hannibal/229-highway-61
 https://locations.kfc.com/mo/harrisonville/1606-highway-291-north
 https://locations.kfc.com/mo/hayti/1710-highway-84
 https://locations.kfc.com/mo/joplin/2601-west-7th-st
-https://locations.kfc.com/mo/kennett/415-independence-drive
 https://locations.kfc.com/mo/kirksville/2401-n-baltimore-street
 https://locations.kfc.com/mo/lebanon/300-south-jefferson
 https://locations.kfc.com/mo/lees-summit/300-rice-road
@@ -1190,7 +1180,6 @@ https://locations.kfc.com/mo/perryville/1212-s-perryville-blvd
 https://locations.kfc.com/mo/poplar-bluff/1211-north-westwood-boulevard
 https://locations.kfc.com/mo/raytown/9924-highway-350-east
 https://locations.kfc.com/mo/richmond/806-slumber-lane
-https://locations.kfc.com/mo/rogersville/174-johnstown-drive
 https://locations.kfc.com/mo/rolla/1001-strobach-street
 https://locations.kfc.com/mo/saint-charles/1699-jungerman-road
 https://locations.kfc.com/mo/saint-peters/4118-mexico-road
@@ -1198,7 +1187,6 @@ https://locations.kfc.com/mo/salem/704-s-main
 https://locations.kfc.com/mo/sedalia/1513-south-limit-avenue
 https://locations.kfc.com/mo/st-louis/8933-jennings-station-road
 https://locations.kfc.com/mo/sullivan/336-e-south-service-road
-https://locations.kfc.com/mo/washington/800-washington-square-shopping-center
 https://locations.kfc.com/mo/webb-city/1731-s-madison-street
 https://locations.kfc.com/mo/wentzville/718-west-pearce-boulevard
 https://locations.kfc.com/mo/west-plains/1301-southern-hills-center
@@ -1249,7 +1237,6 @@ https://locations.kfc.com/nj/brick/468-brick-blvd
 https://locations.kfc.com/nj/bridgeton/29-e-broad-street
 https://locations.kfc.com/nj/bridgewater/989-route-22-east
 https://locations.kfc.com/nj/brooklawn/701-browning-lane
-https://locations.kfc.com/nj/burlington/rt-130-&-high-st
 https://locations.kfc.com/nj/cherry-hill/1516-route-38
 https://locations.kfc.com/nj/cream-ridge/564-monmouth-road
 https://locations.kfc.com/nj/east-brunswick/287-route-18
@@ -1300,6 +1287,7 @@ https://locations.kfc.com/nm/carlsbad/1207-w-pierce-street
 https://locations.kfc.com/nm/clovis/2120-n-prince-street
 https://locations.kfc.com/nm/deming/516-east-cedar
 https://locations.kfc.com/nm/espanola/813-riverside-drive
+https://locations.kfc.com/nm/farmington/532-e-main-street
 https://locations.kfc.com/nm/grants/1800-w-santa-fe-avenue
 https://locations.kfc.com/nm/hobbs/1735-north-turner
 https://locations.kfc.com/nm/kirtland/4198-us-highway-64
@@ -1314,6 +1302,7 @@ https://locations.kfc.com/nm/taos/115-paseo-del-canon
 https://locations.kfc.com/nm/tse-bonito/1595-highway-264
 https://locations.kfc.com/ny/amherst/3962-bailey-avenue
 https://locations.kfc.com/ny/amityville/910-broadway
+https://locations.kfc.com/ny/arcade/195-sawmill-drive
 https://locations.kfc.com/ny/astoria/3042-steinway-street
 https://locations.kfc.com/ny/auburn/276-grant-avenue
 https://locations.kfc.com/ny/batavia/4126-w-main-street
@@ -1337,7 +1326,6 @@ https://locations.kfc.com/ny/elmont/311-hempstead-turnpike
 https://locations.kfc.com/ny/elmsford/350-saw-mill-river-road
 https://locations.kfc.com/ny/evans-mills/26720-us-route-11
 https://locations.kfc.com/ny/far-rockaway/1312-beach-channel-drive
-https://locations.kfc.com/ny/farmington/1301-route-332
 https://locations.kfc.com/ny/fishkill/59-west-merritt-boulevard
 https://locations.kfc.com/ny/floral-park/42-jericho-turnpike
 https://locations.kfc.com/ny/geneseo/4200-lakeville-road
@@ -1391,7 +1379,6 @@ https://locations.kfc.com/ny/peekskill/1833-main-st
 https://locations.kfc.com/ny/plattsburgh/333-cornelia-st
 https://locations.kfc.com/ny/port-chester/262-boston-post-road
 https://locations.kfc.com/ny/port-jervis/290-east-main-street
-https://locations.kfc.com/ny/poughkeepsie/746-50-main-street
 https://locations.kfc.com/ny/queensbury/799-us-route-9
 https://locations.kfc.com/ny/riverhead/993-old-country-road
 https://locations.kfc.com/ny/rocky-point/375-route-25-a
@@ -1430,6 +1417,7 @@ https://locations.kfc.com/nc/clemmons/2390-lewisville-clemmons-rd
 https://locations.kfc.com/nc/clinton/1112-sunset-avenue
 https://locations.kfc.com/nc/columbus/30-shuford-road
 https://locations.kfc.com/nc/cornelius/20220-west-catawba-avenue
+https://locations.kfc.com/nc/creedmoor/1544-highway-56
 https://locations.kfc.com/nc/dallas/1003-dallas-cherryville-highway
 https://locations.kfc.com/nc/denver/6159-hwy-16-south
 https://locations.kfc.com/nc/dunn/1192-w-broad-street
@@ -1497,6 +1485,7 @@ https://locations.kfc.com/nc/west-jefferson/51-beaver-creek-school-rd
 https://locations.kfc.com/nc/whiteville/709-n-jk-powell-boulevard
 https://locations.kfc.com/nc/wilkesboro/1900-addison-ave
 https://locations.kfc.com/nc/yadkinville/705-south-state-street
+https://locations.kfc.com/nc/zebulon/161-wakelon-drive
 https://locations.kfc.com/nd/bismarck/2630-state-street
 https://locations.kfc.com/nd/devils-lake/403-highway-2-w
 https://locations.kfc.com/nd/dickinson/235-osborn-drive
@@ -1517,9 +1506,7 @@ https://locations.kfc.com/oh/bellefontaine/817-south-main-street
 https://locations.kfc.com/oh/bowling-green/1020-north-main-street
 https://locations.kfc.com/oh/brook-park/14901-snow-road
 https://locations.kfc.com/oh/brookville/25-triggs-road
-https://locations.kfc.com/oh/brunswick/3280-center-road
 https://locations.kfc.com/oh/bryan/1113-south-main-street
-https://locations.kfc.com/oh/bucyrus/1659-marion-road
 https://locations.kfc.com/oh/calcutta/15644-state-route-170
 https://locations.kfc.com/oh/cambridge/2301-southgate-parkway
 https://locations.kfc.com/oh/canal-winchester/6081-gender-road
@@ -1583,9 +1570,7 @@ https://locations.kfc.com/oh/napoleon/1406-north-scott
 https://locations.kfc.com/oh/new-boston/4020-rhodes-avenue
 https://locations.kfc.com/oh/newark/38-north-cedar
 https://locations.kfc.com/oh/niles/5684-youngstown-warren-road
-https://locations.kfc.com/oh/north-canton/4080-portage-street-nw
 https://locations.kfc.com/oh/north-olmsted/27901-lorain-road
-https://locations.kfc.com/oh/north-royalton/5525-royalton-road
 https://locations.kfc.com/oh/norwalk/223-milan-avenue
 https://locations.kfc.com/oh/norwood/4478-montgomery-rd
 https://locations.kfc.com/oh/oak-hill/120-north-jackson
@@ -1594,7 +1579,6 @@ https://locations.kfc.com/oh/painesville/200-richmond-street
 https://locations.kfc.com/oh/parma/5380-pearl-road
 https://locations.kfc.com/oh/pataskala/165-east-broad-street
 https://locations.kfc.com/oh/pickerington/1810-winderly-lane
-https://locations.kfc.com/oh/piqua/1251-east-ash-street
 https://locations.kfc.com/oh/pomeroy/226-w-main-street
 https://locations.kfc.com/oh/portsmouth/3826-us-highway-23
 https://locations.kfc.com/oh/powell/4072-w-powell-road
@@ -1610,7 +1594,6 @@ https://locations.kfc.com/oh/south-point/413-county-road-406
 https://locations.kfc.com/oh/springboro/844-west-central-avenue
 https://locations.kfc.com/oh/steubenville/4187-sunset-boulevard
 https://locations.kfc.com/oh/streetsboro/9119-state-route-14
-https://locations.kfc.com/oh/strongsville/12827-pearl-road
 https://locations.kfc.com/oh/sunbury/7309-e-state-rt-37
 https://locations.kfc.com/oh/tiffin/2004-w-state-route-18
 https://locations.kfc.com/oh/trotwood/5321-salem-avenue
@@ -1669,8 +1652,8 @@ https://locations.kfc.com/ok/tahlequah/1614-s-muskogee-avenue
 https://locations.kfc.com/ok/woodward/2411-oklahoma-ave
 https://locations.kfc.com/ok/yukon/1301-garth-brooks-blvd
 https://locations.kfc.com/or/albany/2145-pacific-boulevard
-https://locations.kfc.com/or/aloha/18735-sw-tualatin
 https://locations.kfc.com/or/astoria/325-west-marine-drive
+https://locations.kfc.com/or/beaverton/10190-sw-beaverton-hillsdale
 https://locations.kfc.com/or/bend/61355-south-highway-97
 https://locations.kfc.com/or/brookings/350-5th-street
 https://locations.kfc.com/or/canby/1101-sw-first-avenue
@@ -1680,6 +1663,7 @@ https://locations.kfc.com/or/corvallis/1775-north-ninth-street
 https://locations.kfc.com/or/cottage-grove/1530-gateway-blvd
 https://locations.kfc.com/or/grants-pass/280-ne-beacon-drive
 https://locations.kfc.com/or/gresham/205-nw-burnside-st
+https://locations.kfc.com/or/hermiston/450-north-1st-street
 https://locations.kfc.com/or/klamath-falls/4404-south-6th-street
 https://locations.kfc.com/or/la-grande/1706-adams-avenue
 https://locations.kfc.com/or/lebanon/51-cascade-drive
@@ -1697,7 +1681,6 @@ https://locations.kfc.com/or/silverton/605-west-c-street
 https://locations.kfc.com/or/the-dalles/2700-w-6th-street
 https://locations.kfc.com/or/woodburn/2601-newburg-highway
 https://locations.kfc.com/pa/allentown/1833-s-4th-street
-https://locations.kfc.com/pa/allison-park/4673-william-flynn-highway
 https://locations.kfc.com/pa/bala-cynwyd/27-west-city-line-avenue
 https://locations.kfc.com/pa/beaver-falls/2666-constitution-boulevard
 https://locations.kfc.com/pa/belle-vernon/865-rostraver-road
@@ -1728,7 +1711,6 @@ https://locations.kfc.com/pa/harmarville/1-harmar-landing-drive
 https://locations.kfc.com/pa/harrisburg/3819-walnut-street
 https://locations.kfc.com/pa/hazleton/650-east-broad-street
 https://locations.kfc.com/pa/hermitage/100-s-hermitage-road
-https://locations.kfc.com/pa/homestead/222-w-8th-ave
 https://locations.kfc.com/pa/hummelstown/603-east-main-street
 https://locations.kfc.com/pa/irwin/9390-route-30
 https://locations.kfc.com/pa/johnstown/1007-scalp-avenue
@@ -1771,12 +1753,10 @@ https://locations.kfc.com/pa/washington/120-murtland-ave
 https://locations.kfc.com/pa/waynesboro/11137-buchanan-trail-e-route-6
 https://locations.kfc.com/pa/waynesburg/109-miller-lane
 https://locations.kfc.com/pa/west-chester/519-e-market-st
-https://locations.kfc.com/pa/west-view/804-w-view-park-dr
 https://locations.kfc.com/pa/whitehall/1612-macarthur-road
 https://locations.kfc.com/pa/wilkes-barre/140-oxford-street
 https://locations.kfc.com/pa/wilkinsburg/509-penn-ave
 https://locations.kfc.com/pa/williamsport/1850-e-third-street
-https://locations.kfc.com/pa/willow-grove/1865-easton-rd
 https://locations.kfc.com/pa/wyncote/8140-ogontz-ave
 https://locations.kfc.com/ri/coventry/824-tiogue-avenue
 https://locations.kfc.com/ri/cranston/822-reservoir-avenue
@@ -1793,7 +1773,6 @@ https://locations.kfc.com/ri/warwick/767-airport-road
 https://locations.kfc.com/ri/west-warwick/305-quaker-ln
 https://locations.kfc.com/ri/westerly/160-granite-street
 https://locations.kfc.com/ri/woonsocket/137-clinton-street
-https://locations.kfc.com/sc/abbeville/105-west-greenwood-st
 https://locations.kfc.com/sc/barnwell/10444-dunbarton-boulevard
 https://locations.kfc.com/sc/beaufort/211-robert-smalls-parkway
 https://locations.kfc.com/sc/belton/326-s-main-street
@@ -1805,7 +1784,6 @@ https://locations.kfc.com/sc/boiling-springs/4004-highway-9
 https://locations.kfc.com/sc/camden/101-e-dekalb-street
 https://locations.kfc.com/sc/cheraw/427-chesterfield-highway
 https://locations.kfc.com/sc/chester/1607-ja-cochran-hwy-72-bypass
-https://locations.kfc.com/sc/clinton/105-w-carolina-avenue
 https://locations.kfc.com/sc/clover/958-bethel-street
 https://locations.kfc.com/sc/conway/1624-church-street
 https://locations.kfc.com/sc/darlington/979-governor-williams-highway
@@ -1882,7 +1860,6 @@ https://locations.kfc.com/tn/greeneville/3507-east-andrew-johnson-highway
 https://locations.kfc.com/tn/harriman/1527-s-roane-street
 https://locations.kfc.com/tn/hendersonville/322-w-main-st
 https://locations.kfc.com/tn/hermitage/4744-lebanon-rd
-https://locations.kfc.com/tn/hixson/5323-highway-153
 https://locations.kfc.com/tn/jamestown/102-stewart-street
 https://locations.kfc.com/tn/jefferson-city/281-east-broadway
 https://locations.kfc.com/tn/johnson-city/1920-n-roan-street
@@ -1940,6 +1917,7 @@ https://locations.kfc.com/tx/azle/637-boyd-road
 https://locations.kfc.com/tx/balch-springs/12325-elam-rd
 https://locations.kfc.com/tx/bastrop/901-state-highway-95
 https://locations.kfc.com/tx/bay-city/3716-seventh-street
+https://locations.kfc.com/tx/beaumont/3930-eastex-fwy
 https://locations.kfc.com/tx/beeville/200-e-houston-street
 https://locations.kfc.com/tx/benbrook/8509-highway-377-s
 https://locations.kfc.com/tx/bonham/203-west-sam-rayburn-drive
@@ -1994,19 +1972,19 @@ https://locations.kfc.com/tx/kingsville/400-s-14th-street
 https://locations.kfc.com/tx/kingwood/1712-kingwood-drive
 https://locations.kfc.com/tx/kyle/20925-interstate-highway-35
 https://locations.kfc.com/tx/la-marque/2427-s-main-street
-https://locations.kfc.com/tx/la-porte/1450-fairmont-parkway
 https://locations.kfc.com/tx/lacy-lakeview/1133-north-loop-e340
 https://locations.kfc.com/tx/levelland/904-college-avenue
+https://locations.kfc.com/tx/lewisville/733-hebron-parkway
 https://locations.kfc.com/tx/liberty/1829-us-highway-90
 https://locations.kfc.com/tx/lindale/3222-south-main-street
 https://locations.kfc.com/tx/little-elm/2801-eldorado-pwky-e
 https://locations.kfc.com/tx/lockhart/1908-s-colorado-street
 https://locations.kfc.com/tx/lufkin/205-s-timberland-drive
-https://locations.kfc.com/tx/magnolia/17725-fm-1488-road
 https://locations.kfc.com/tx/mansfield/1701-north-highway-157
 https://locations.kfc.com/tx/marble-falls/1601-ollie-lane
 https://locations.kfc.com/tx/marshall/700-east-end-boulevard-south
 https://locations.kfc.com/tx/mcallen/707-nolana
+https://locations.kfc.com/tx/midland/1814-n-midland-drive
 https://locations.kfc.com/tx/midlothian/600-silken-crossing
 https://locations.kfc.com/tx/mission/901-e-9th-st
 https://locations.kfc.com/tx/missouri-city/2210-texas-parkway
@@ -2030,7 +2008,6 @@ https://locations.kfc.com/tx/san-benito/1120-s-business-77
 https://locations.kfc.com/tx/san-marcos/660-e-hopkins-street
 https://locations.kfc.com/tx/schertz/17397-ih-35-north
 https://locations.kfc.com/tx/seagoville/550-e-malloy-bridge-rd
-https://locations.kfc.com/tx/silsbee/815-highway-96-s
 https://locations.kfc.com/tx/south-padre-island/3201-padre-boulevard
 https://locations.kfc.com/tx/southlake/101-north-kimball-avenue
 https://locations.kfc.com/tx/splendora/14709-us-highway-59
@@ -2081,10 +2058,8 @@ https://locations.kfc.com/ut/tooele/737-north-main
 https://locations.kfc.com/ut/vernal/1260-west-500-south
 https://locations.kfc.com/ut/west-valley-city/3865-west-3500-south
 https://locations.kfc.com/vt/bennington/100-northside-drive
-https://locations.kfc.com/vt/berlin/1129-us-route-302
 https://locations.kfc.com/vt/brattleboro/1007-putney-road
 https://locations.kfc.com/vt/essex-junction/126-pearl-street
-https://locations.kfc.com/vt/rutland/153-s-main-st
 https://locations.kfc.com/vt/saint-albans-town/363-swanton-road
 https://locations.kfc.com/vt/saint-johnsbury/985-memorial-drive
 https://locations.kfc.com/va/annandale/7450-little-river-turnpike
@@ -2164,7 +2139,6 @@ https://locations.kfc.com/wa/longview/920-washington-way
 https://locations.kfc.com/wa/lynnwood/4011-196th-st-sw
 https://locations.kfc.com/wa/maple-valley/23848-225th-st-se
 https://locations.kfc.com/wa/marysville/1234-state-street
-https://locations.kfc.com/wa/monroe/19619-state-highway-2
 https://locations.kfc.com/wa/moses-lake/411-east-third-avenue
 https://locations.kfc.com/wa/mount-vernon/2003-riverside-drive
 https://locations.kfc.com/wa/omak/620-omache-drive
@@ -2178,7 +2152,6 @@ https://locations.kfc.com/wa/renton/604-rainier-ave-s
 https://locations.kfc.com/wa/richland/2750-duportail-street
 https://locations.kfc.com/wa/sammamish/22911-ne-4th-street
 https://locations.kfc.com/wa/silverdale/10575-silverdale-way
-https://locations.kfc.com/wa/snohomish/1209-avenue-d
 https://locations.kfc.com/wa/sunnyside/1928-yakima-valley-hwy
 https://locations.kfc.com/wa/toppenish/415-south-elm-street
 https://locations.kfc.com/wa/tukwila/15036-tukwila-international-blvd
@@ -2188,7 +2161,6 @@ https://locations.kfc.com/wa/veradale/15330-east-sprague-avenue
 https://locations.kfc.com/wa/walla-walla/595-w-rose-st
 https://locations.kfc.com/wa/wenatchee/1015-north-mission-street
 https://locations.kfc.com/wa/woodinville/17100-140th-avenue-ne
-https://locations.kfc.com/wa/yelm/1310-e-yelm-avenue
 https://locations.kfc.com/wv/beaver/904-ritter-drive
 https://locations.kfc.com/wv/beckley/3025-robert-c-byrd-dr
 https://locations.kfc.com/wv/benwood/207-marshall-st
@@ -2334,7 +2306,6 @@ https://locations.kfc.com/az/tucson/3344-n-oracle-road
 https://locations.kfc.com/az/tucson/5010-s-campbell-avenue
 https://locations.kfc.com/az/tucson/6872-e-tanque-verde-road
 https://locations.kfc.com/az/tucson/7245-e-golf-links-road
-https://locations.kfc.com/az/tucson/7901-n-oracle-hwy
 https://locations.kfc.com/az/tucson/8270-n-cortaro-road
 https://locations.kfc.com/az/yuma/11183-s-frontage-drive
 https://locations.kfc.com/az/yuma/1950-fourth-avenue
@@ -2372,8 +2343,6 @@ https://locations.kfc.com/ca/barstow/110-coolwater-lane-K312073
 https://locations.kfc.com/ca/barstow/110-coolwater-lane-K312073_Delivery
 https://locations.kfc.com/ca/brentwood/6371-lone-tree-way
 https://locations.kfc.com/ca/brentwood/7810-brentwood-boulevard
-https://locations.kfc.com/ca/canoga-park/20101-sherman-way
-https://locations.kfc.com/ca/canoga-park/21930-sherman-way
 https://locations.kfc.com/ca/carson/18401-s-avalon-blvd
 https://locations.kfc.com/ca/carson/545-east-sepulveda
 https://locations.kfc.com/ca/carson/619-w-carson-street
@@ -2382,8 +2351,6 @@ https://locations.kfc.com/ca/chula-vista/1361-medical-center-drive
 https://locations.kfc.com/ca/chula-vista/461-3rd-ave
 https://locations.kfc.com/ca/citrus-heights/7098-auburn-boulevard
 https://locations.kfc.com/ca/citrus-heights/8034-greenback-lane
-https://locations.kfc.com/ca/clovis/1860-ashlan-avenue
-https://locations.kfc.com/ca/clovis/198-west-shaw-avenue
 https://locations.kfc.com/ca/compton/103-north-central-avenue
 https://locations.kfc.com/ca/compton/221-south-long-beach-blvd
 https://locations.kfc.com/ca/concord/2160-monument-boulevard
@@ -2402,25 +2369,19 @@ https://locations.kfc.com/ca/escondido/639-n-broadway
 https://locations.kfc.com/ca/fontana/14570-baseline-avenue
 https://locations.kfc.com/ca/fontana/16931-foothill-blvd
 https://locations.kfc.com/ca/fontana/9758-sierra-ave
-https://locations.kfc.com/ca/fresno/1110-c-street
 https://locations.kfc.com/ca/fresno/2031-north-blackstone-avenue
 https://locations.kfc.com/ca/fresno/3218-east-jensen
-https://locations.kfc.com/ca/fresno/4175-west-shaw
 https://locations.kfc.com/ca/fresno/4909-east-mckinley-avenue
 https://locations.kfc.com/ca/fresno/4948-east-cesar-chavez-boulevard
 https://locations.kfc.com/ca/fresno/7152-north-blackstone-avenue
 https://locations.kfc.com/ca/garden-grove/12042-valley-view-blvd
 https://locations.kfc.com/ca/garden-grove/8971-westminster-ave
-https://locations.kfc.com/ca/hemet/2890-west-florida-avenue
-https://locations.kfc.com/ca/hemet/3440-east-florida-avenue
 https://locations.kfc.com/ca/huntington-beach/19091-brookhurst-street
 https://locations.kfc.com/ca/huntington-beach/8142-talbert-ave
 https://locations.kfc.com/ca/indio/42750-a-jackson-street
 https://locations.kfc.com/ca/indio/81769-us-highway-111
 https://locations.kfc.com/ca/irvine/14705-jeffrey-rd
 https://locations.kfc.com/ca/irvine/15463-culver-drive
-https://locations.kfc.com/ca/lake-elsinore/31257-riverside-drive
-https://locations.kfc.com/ca/lake-elsinore/321-summerhill-drive
 https://locations.kfc.com/ca/lancaster/1827-e-ave-j
 https://locations.kfc.com/ca/lancaster/43559-10th-street-west
 https://locations.kfc.com/ca/long-beach/1601-east-seventh-street
@@ -2473,20 +2434,15 @@ https://locations.kfc.com/ca/napa/295-soscol-ave
 https://locations.kfc.com/ca/napa/3246-jefferson-st
 https://locations.kfc.com/ca/north-hollywood/12044-roscoe-boulevard
 https://locations.kfc.com/ca/north-hollywood/6502-laurel-canyon-blvd
-https://locations.kfc.com/ca/norwalk/10937-alondra-blvd
-https://locations.kfc.com/ca/norwalk/12959-rosecrans-avenue
 https://locations.kfc.com/ca/oakland/2800-telegraph-avenue
-https://locations.kfc.com/ca/oakland/3400-foothill-boulevard
 https://locations.kfc.com/ca/oakland/3734-macarthur-boulevard
 https://locations.kfc.com/ca/oakland/470-lake-park-avenue
 https://locations.kfc.com/ca/oakland/7272-international-blvd
 https://locations.kfc.com/ca/oceanside/2007-mission-ave
-https://locations.kfc.com/ca/oceanside/3747-mission-avenue
 https://locations.kfc.com/ca/oceanside/4100-oceanside-blvd
 https://locations.kfc.com/ca/ontario/1108-w-mission-blvd
 https://locations.kfc.com/ca/ontario/1851-east-g-st
 https://locations.kfc.com/ca/ontario/2454-south-archibald-ave
-https://locations.kfc.com/ca/ontario/4371-ontario-mills-parkway
 https://locations.kfc.com/ca/orange/2469-n-tustin-street
 https://locations.kfc.com/ca/orange/708-n-tustin-st
 https://locations.kfc.com/ca/oxnard/191-w-gonzales-road
@@ -2537,7 +2493,6 @@ https://locations.kfc.com/ca/san-diego/4290-clairemont-mesa-blvd
 https://locations.kfc.com/ca/san-diego/4380-palm-avenue
 https://locations.kfc.com/ca/san-diego/6605-mission-gorge-rd
 https://locations.kfc.com/ca/san-diego/6745-mira-mesa-blvd
-https://locations.kfc.com/ca/san-diego/7049-eastman-street
 https://locations.kfc.com/ca/san-diego/7180-miramar-rd
 https://locations.kfc.com/ca/san-francisco/1150-taraval-street
 https://locations.kfc.com/ca/san-francisco/2040-ocean-avenue
@@ -2639,10 +2594,6 @@ https://locations.kfc.com/co/westminster/8471-church-ranch-blvd
 https://locations.kfc.com/co/westminster/9185-north-federal-boulevard
 https://locations.kfc.com/ct/bridgeport/325-boston-avenue
 https://locations.kfc.com/ct/bridgeport/4301-north-main-street
-https://locations.kfc.com/ct/danbury/1-federal-road
-https://locations.kfc.com/ct/danbury/91-north-street
-https://locations.kfc.com/ct/east-windsor/41-prospect-hill-rd-029318
-https://locations.kfc.com/ct/east-windsor/41-prospect-hill-rd-29318
 https://locations.kfc.com/ct/hartford/501-farmington-avenue
 https://locations.kfc.com/ct/hartford/779-albany-avenue
 https://locations.kfc.com/ct/new-haven/311-whalley-avenue
@@ -2742,19 +2693,18 @@ https://locations.kfc.com/fl/miami-gardens/17701-nw-27th-avenue
 https://locations.kfc.com/fl/miami-gardens/4800-nw-183rd-street
 https://locations.kfc.com/fl/miramar/3650-utopia-drive
 https://locations.kfc.com/fl/miramar/6090-miramar-parkway
+https://locations.kfc.com/fl/naples/12225-collier-boulevard
+https://locations.kfc.com/fl/naples/5088-airport-pulling-road
 https://locations.kfc.com/fl/new-port-richey/4312-us-highway-19
 https://locations.kfc.com/fl/new-port-richey/8242-little-road
 https://locations.kfc.com/fl/north-miami-beach/13801-north-east-biscayne-boulevard
 https://locations.kfc.com/fl/north-miami-beach/16215-northeast-15th-avenue
 https://locations.kfc.com/fl/north-miami-beach/20285-northwest-2nd-avenue
-https://locations.kfc.com/fl/north-port/14912-tamiami-trail
-https://locations.kfc.com/fl/north-port/5682-tuscola-blvd
 https://locations.kfc.com/fl/ocala/13545-sw-17th-court
 https://locations.kfc.com/fl/ocala/3325-nw-pine-avenue
 https://locations.kfc.com/fl/ocala/3615-west-silver-springs-blvd
 https://locations.kfc.com/fl/ocala/3810-sw-college-rd
 https://locations.kfc.com/fl/ocala/3815-e-silver-springs-blvd
-https://locations.kfc.com/fl/ocala/7610-se-maricamp-road
 https://locations.kfc.com/fl/ocoee/mile-post-263-0000068
 https://locations.kfc.com/fl/ocoee/mile-post-263-68
 https://locations.kfc.com/fl/okeechobee/3387-highway-441-south
@@ -2793,12 +2743,11 @@ https://locations.kfc.com/fl/saint-petersburg/6300-ninth-street-n
 https://locations.kfc.com/fl/saint-petersburg/770-34th-street-n
 https://locations.kfc.com/fl/sanford/3601-s-orlando-dr
 https://locations.kfc.com/fl/sanford/4659-w-1st-street
-https://locations.kfc.com/fl/sarasota/3780-bee-ridge-road
-https://locations.kfc.com/fl/sarasota/6301-15th-street-e
 https://locations.kfc.com/fl/tallahassee/100-paul-russell-rd
 https://locations.kfc.com/fl/tallahassee/2828-north-monroe-street
 https://locations.kfc.com/fl/tallahassee/3008-apalachee-parkway
 https://locations.kfc.com/fl/tallahassee/4650-w-tennessee-street
+https://locations.kfc.com/fl/tampa/12650-north-dale-mabry-highway
 https://locations.kfc.com/fl/tampa/1605-w-kennedy-boulevard
 https://locations.kfc.com/fl/tampa/1733-n-50th-street
 https://locations.kfc.com/fl/tampa/2212-e-fowler-avenue
@@ -2881,8 +2830,6 @@ https://locations.kfc.com/hi/honolulu/1704-n-king-street
 https://locations.kfc.com/hi/honolulu/4819-bougainville-drive
 https://locations.kfc.com/hi/kailua-kona/75-5586-palani-road
 https://locations.kfc.com/hi/kailua-kona/75-5595-palani-road
-https://locations.kfc.com/hi/waianae/85-054-kaupuni
-https://locations.kfc.com/hi/waianae/87-1978-farrington-highway
 https://locations.kfc.com/id/boise/13375-w-chinden-blvd
 https://locations.kfc.com/id/boise/3545-south-federal-way
 https://locations.kfc.com/id/boise/8440-west-overland-road
@@ -2891,6 +2838,8 @@ https://locations.kfc.com/il/aurora/136-fox-valley-center
 https://locations.kfc.com/il/aurora/2240-w-galena-blvd
 https://locations.kfc.com/il/belleville/4914-w-main-street
 https://locations.kfc.com/il/belleville/645-carlyle-avenue
+https://locations.kfc.com/il/champaign/2201-west-springfield-avenue-C160049
+https://locations.kfc.com/il/champaign/2201-west-springfield-avenue-KFC C160049
 https://locations.kfc.com/il/chicago/100-w-randolph
 https://locations.kfc.com/il/chicago/10200-s-halsted-street
 https://locations.kfc.com/il/chicago/10421-south-western-avenue
@@ -2936,17 +2885,14 @@ https://locations.kfc.com/in/hammond/2733-169th-street
 https://locations.kfc.com/in/hammond/4120-s-calumet-avenue
 https://locations.kfc.com/in/indianapolis/10815-pendleton-pike
 https://locations.kfc.com/in/indianapolis/1812-n-arlington-ave
-https://locations.kfc.com/in/indianapolis/2401-n-meridian-st
 https://locations.kfc.com/in/indianapolis/3704-w-washington-st
 https://locations.kfc.com/in/indianapolis/4528-w-38th-st
-https://locations.kfc.com/in/indianapolis/5662-georgetown-road
 https://locations.kfc.com/in/indianapolis/6154-n-keystone-avenue
 https://locations.kfc.com/in/indianapolis/6440-e-82nd-st
 https://locations.kfc.com/in/indianapolis/7155-pendleton-pike
 https://locations.kfc.com/in/indianapolis/7215-n-michigan-road
 https://locations.kfc.com/in/indianapolis/8456-michigan-rd-H740024
 https://locations.kfc.com/in/indianapolis/8456-michigan-rd-H740024_D
-https://locations.kfc.com/in/indianapolis/8820-e-21st-st
 https://locations.kfc.com/in/indianapolis/9899-east-washington-st
 https://locations.kfc.com/in/jeffersonville/1426-east-tenth-street
 https://locations.kfc.com/in/jeffersonville/5501-highway-62
@@ -2983,8 +2929,6 @@ https://locations.kfc.com/ia/davenport/3843-elmore-ave
 https://locations.kfc.com/ia/des-moines/4005-merle-hay-road
 https://locations.kfc.com/ia/des-moines/4815-southwest-9th-street
 https://locations.kfc.com/ia/des-moines/902-east-euclid-avenue
-https://locations.kfc.com/ia/dubuque/1725-john-f-kennedy-road
-https://locations.kfc.com/ia/dubuque/1957-central-avenue
 https://locations.kfc.com/ia/sioux-city/1500-hamilton-boulevard-C750137
 https://locations.kfc.com/ia/sioux-city/1500-hamilton-boulevard-C750137_DUP
 https://locations.kfc.com/ia/sioux-city/3001-singing-hills-blvd
@@ -3076,8 +3020,6 @@ https://locations.kfc.com/ma/dorchester/465-washington-st
 https://locations.kfc.com/ma/dorchester/695-columbia-rd
 https://locations.kfc.com/ma/new-bedford/2135-acushnet-avenue
 https://locations.kfc.com/ma/new-bedford/506-county-st
-https://locations.kfc.com/ma/northampton/203-king-street-029323
-https://locations.kfc.com/ma/northampton/203-king-street-29323
 https://locations.kfc.com/ma/springfield/1324-boston-road
 https://locations.kfc.com/ma/springfield/3111-main-st
 https://locations.kfc.com/ma/springfield/632-state-street
@@ -3160,7 +3102,6 @@ https://locations.kfc.com/ms/gulfport/12208-highway-49
 https://locations.kfc.com/ms/gulfport/817-cowan-road
 https://locations.kfc.com/ms/hattiesburg/5330-old-highway-11
 https://locations.kfc.com/ms/hattiesburg/605-broadway
-https://locations.kfc.com/ms/jackson/220-w-woodrow-wilson-avenue
 https://locations.kfc.com/ms/jackson/3198-west-northside-drive
 https://locations.kfc.com/ms/jackson/3296-highway-80-west
 https://locations.kfc.com/ms/laurel/715-north-16th-avenue
@@ -3275,8 +3216,6 @@ https://locations.kfc.com/nm/albuquerque/6551-paradise-nw-23838
 https://locations.kfc.com/nm/albuquerque/6810-central-ave-sw-024051
 https://locations.kfc.com/nm/albuquerque/6810-central-ave-sw-24051
 https://locations.kfc.com/nm/albuquerque/7010-central-ave-se
-https://locations.kfc.com/nm/farmington/3801-e-main-street
-https://locations.kfc.com/nm/farmington/532-e-main-street
 https://locations.kfc.com/nm/gallup/1050-us-highway-491
 https://locations.kfc.com/nm/gallup/2504-east-highway-66
 https://locations.kfc.com/nm/las-cruces/2424-n-main
@@ -3339,6 +3278,8 @@ https://locations.kfc.com/ny/new-york/408-8th-avenue
 https://locations.kfc.com/ny/new-york/4250-broadway
 https://locations.kfc.com/ny/new-york/707-lenox-ave
 https://locations.kfc.com/ny/new-york/761-seventh-avenue
+https://locations.kfc.com/ny/poughkeepsie/746-50-main-street-G135741
+https://locations.kfc.com/ny/poughkeepsie/746-50-main-street-G506017
 https://locations.kfc.com/ny/rochester/1210-university-avenue
 https://locations.kfc.com/ny/rochester/1345-chili-avenue
 https://locations.kfc.com/ny/rochester/2222-lyell-avenue
@@ -3366,7 +3307,6 @@ https://locations.kfc.com/nc/burlington/665-huffman-mill-road
 https://locations.kfc.com/nc/charlotte/1045-w-sugar-creek-road
 https://locations.kfc.com/nc/charlotte/1101-n-wendover-rd
 https://locations.kfc.com/nc/charlotte/2639-freedom-drive
-https://locations.kfc.com/nc/charlotte/321-east-woodlawn-road
 https://locations.kfc.com/nc/charlotte/4601-n-tryon-st
 https://locations.kfc.com/nc/charlotte/5032-sunset-rd
 https://locations.kfc.com/nc/charlotte/5540-university-pointe-blvd
@@ -3375,8 +3315,6 @@ https://locations.kfc.com/nc/charlotte/6424-albemarle-rd
 https://locations.kfc.com/nc/charlotte/9010-south-tryon-street
 https://locations.kfc.com/nc/concord/258-concord-parkway-so
 https://locations.kfc.com/nc/concord/7751-gateway-lane
-https://locations.kfc.com/nc/creedmoor/1544-highway-56-029402
-https://locations.kfc.com/nc/creedmoor/1544-highway-56-29402
 https://locations.kfc.com/nc/durham/1110-w-nc-54-029412
 https://locations.kfc.com/nc/durham/1110-w-nc-54-29412
 https://locations.kfc.com/nc/durham/1804-south-miami-blvd
@@ -3452,8 +3390,6 @@ https://locations.kfc.com/nc/wilson/901-highway-301
 https://locations.kfc.com/nc/winston-salem/1125-n-liberty-st
 https://locations.kfc.com/nc/winston-salem/1203-silas-creek-parkway
 https://locations.kfc.com/nc/winston-salem/5715-university-pky
-https://locations.kfc.com/nc/zebulon/161-wakelon-drive-029481
-https://locations.kfc.com/nc/zebulon/161-wakelon-drive-29481
 https://locations.kfc.com/nd/minot/1929-north-broadway
 https://locations.kfc.com/nd/minot/3100-south-broadway
 https://locations.kfc.com/oh/akron/1546-w-market-st
@@ -3485,8 +3421,6 @@ https://locations.kfc.com/oh/columbus/1990-e-main-st
 https://locations.kfc.com/oh/columbus/3142-cleveland-ave
 https://locations.kfc.com/oh/columbus/3414-sullivant-ave
 https://locations.kfc.com/oh/columbus/3663-south-high-street
-https://locations.kfc.com/oh/columbus/3819-e-broad-st
-https://locations.kfc.com/oh/columbus/4721-morse-rd
 https://locations.kfc.com/oh/columbus/4828-w-broad-st
 https://locations.kfc.com/oh/columbus/688-e-5th-avenue
 https://locations.kfc.com/oh/columbus/6900-east-broad-street
@@ -3499,8 +3433,6 @@ https://locations.kfc.com/oh/elyria/38315-chestnut-ridge-road
 https://locations.kfc.com/oh/elyria/5210-detroit-road
 https://locations.kfc.com/oh/findlay/1225-tiffin-ave
 https://locations.kfc.com/oh/findlay/700-trenton-avenue
-https://locations.kfc.com/oh/grove-city/1970-stringtown-rd
-https://locations.kfc.com/oh/grove-city/2815-london-groveport-road
 https://locations.kfc.com/oh/mansfield/1447-lexington-avenue
 https://locations.kfc.com/oh/mansfield/301-ashland-road
 https://locations.kfc.com/oh/springfield/1520-hillcrest-avenue
@@ -3530,7 +3462,6 @@ https://locations.kfc.com/ok/norman/1201-e-alameda-st
 https://locations.kfc.com/ok/norman/1801-w-lindsey-st
 https://locations.kfc.com/ok/oklahoma-city/12330-n-pennsylvania-ave
 https://locations.kfc.com/ok/oklahoma-city/2231-nw-23rd-st
-https://locations.kfc.com/ok/oklahoma-city/2903-sw-29th-st
 https://locations.kfc.com/ok/oklahoma-city/4621-nw-39th-street
 https://locations.kfc.com/ok/oklahoma-city/5901-sw-4th-terrace
 https://locations.kfc.com/ok/oklahoma-city/5917-s-shields-blvd
@@ -3545,8 +3476,6 @@ https://locations.kfc.com/ok/tulsa/4707-n-peoria-avenue
 https://locations.kfc.com/ok/tulsa/4926-s-union-avenue
 https://locations.kfc.com/ok/tulsa/7180-s-memorial-drive
 https://locations.kfc.com/ok/tulsa/7304-e-admiral-blvd
-https://locations.kfc.com/or/beaverton/10190-sw-beaverton-hillsdale
-https://locations.kfc.com/or/beaverton/3340-sw-cedar-hills-blvd
 https://locations.kfc.com/or/eugene/2545-river-road
 https://locations.kfc.com/or/eugene/3175-w-11th-avenue
 https://locations.kfc.com/or/hillsboro/115-sw-oak-st
@@ -3604,7 +3533,6 @@ https://locations.kfc.com/pa/pittsburgh/5130-clairton-blvd
 https://locations.kfc.com/pa/pittsburgh/85-blazier-drive
 https://locations.kfc.com/pa/reading/241-lancaster-pike-west
 https://locations.kfc.com/pa/reading/3120-5th-street-highway
-https://locations.kfc.com/pa/york/190-memory-lane
 https://locations.kfc.com/pa/york/2650-south-queen-street
 https://locations.kfc.com/pa/york/908-loucks-road
 https://locations.kfc.com/ri/providence/420-broad-st
@@ -3679,26 +3607,20 @@ https://locations.kfc.com/tn/kingsport/813-lynn-garden-drive
 https://locations.kfc.com/tn/knoxville/1030-shumard-lane
 https://locations.kfc.com/tn/knoxville/2918-n-broadway-street
 https://locations.kfc.com/tn/knoxville/409-n-cedar-bluff-road
-https://locations.kfc.com/tn/knoxville/4415-western-avenue
 https://locations.kfc.com/tn/knoxville/5266-millertown-pike
 https://locations.kfc.com/tn/knoxville/6711-clinton-highway
-https://locations.kfc.com/tn/knoxville/7228-maynardville-pike
 https://locations.kfc.com/tn/memphis/1699-union-ave
 https://locations.kfc.com/tn/memphis/200-n-danny-thomas-blvd
 https://locations.kfc.com/tn/memphis/2055-frayser-blvd
 https://locations.kfc.com/tn/memphis/2256-lamar-ave
 https://locations.kfc.com/tn/memphis/2452-jackson-ave
-https://locations.kfc.com/tn/memphis/2785-lamar-ave
-https://locations.kfc.com/tn/memphis/3144-s-3rd-st
 https://locations.kfc.com/tn/memphis/3215-s-perkins-rd
 https://locations.kfc.com/tn/memphis/3255-austin-peay-hwy
-https://locations.kfc.com/tn/memphis/3745-e-shelby-drive
 https://locations.kfc.com/tn/memphis/3995-s-3rd-st
 https://locations.kfc.com/tn/memphis/4306-summer-ave
 https://locations.kfc.com/tn/memphis/4549-elvis-presley-highway
 https://locations.kfc.com/tn/memphis/4790-riverdale-road
 https://locations.kfc.com/tn/memphis/6262-winchester-rd
-https://locations.kfc.com/tn/memphis/727-south-highland
 https://locations.kfc.com/tn/memphis/7980-winchester-road
 https://locations.kfc.com/tn/memphis/869-s-3rd-st
 https://locations.kfc.com/tn/murfreesboro/1816-memorial-blvd
@@ -3727,8 +3649,6 @@ https://locations.kfc.com/tx/austin/7206-ed-bluestein-blvd
 https://locations.kfc.com/tx/austin/801-e-william-cannon-dr
 https://locations.kfc.com/tx/baytown/4006-garth-rd
 https://locations.kfc.com/tx/baytown/8302-n-highway-146
-https://locations.kfc.com/tx/beaumont/3930-eastex-fwy
-https://locations.kfc.com/tx/beaumont/8090-college-street
 https://locations.kfc.com/tx/bedford/1505-brown-trail-C771006duplicate
 https://locations.kfc.com/tx/bedford/1505-brown-trail-J417009
 https://locations.kfc.com/tx/bedford/3116-harwood-road-C771008duplicate
@@ -3738,7 +3658,6 @@ https://locations.kfc.com/tx/brownsville/3565-w-alton-gloor-blvd
 https://locations.kfc.com/tx/carrollton/1907-e-beltline-rd
 https://locations.kfc.com/tx/carrollton/2636-midway-rd
 https://locations.kfc.com/tx/carrollton/4117-north-josey-lane
-https://locations.kfc.com/tx/corpus-christi/11153-leopard-street
 https://locations.kfc.com/tx/corpus-christi/2111-s-staples-street
 https://locations.kfc.com/tx/corpus-christi/5633-saratoga-boulevard
 https://locations.kfc.com/tx/cypress/13230-grant-road
@@ -3758,7 +3677,6 @@ https://locations.kfc.com/tx/dallas/5877-samuell-blvd
 https://locations.kfc.com/tx/dallas/6130-e-mockingbird-ln
 https://locations.kfc.com/tx/dallas/7975-belt-line-rd
 https://locations.kfc.com/tx/dallas/8001-forest-lane
-https://locations.kfc.com/tx/dallas/9465-forest-ln
 https://locations.kfc.com/tx/denton/1516-teasley-ln
 https://locations.kfc.com/tx/denton/315-w-university-dr
 https://locations.kfc.com/tx/el-paso/11330-montwood-drive
@@ -3769,7 +3687,6 @@ https://locations.kfc.com/tx/el-paso/1656-cimarron-emporium
 https://locations.kfc.com/tx/el-paso/3490-joe-battle-blvd
 https://locations.kfc.com/tx/el-paso/3601-gateway-blvd-w
 https://locations.kfc.com/tx/el-paso/427-n-yarbrough-drive
-https://locations.kfc.com/tx/el-paso/7940-n-mesa-st
 https://locations.kfc.com/tx/el-paso/9418-dyer-street
 https://locations.kfc.com/tx/euless/200-w-euless-blvd-C771007duplicate
 https://locations.kfc.com/tx/euless/200-w-euless-blvd-J417010
@@ -3836,8 +3753,6 @@ https://locations.kfc.com/tx/killeen/3408-west-stan-schlueter-loop
 https://locations.kfc.com/tx/laredo/2319-guadalupe
 https://locations.kfc.com/tx/laredo/2602-s-zapata-hwy
 https://locations.kfc.com/tx/laredo/7605-mcpherson-drive
-https://locations.kfc.com/tx/lewisville/1502-w-main-st
-https://locations.kfc.com/tx/lewisville/733-hebron-parkway
 https://locations.kfc.com/tx/longview/2407-judson-road
 https://locations.kfc.com/tx/longview/2553-judson-road
 https://locations.kfc.com/tx/longview/3603-estes-parkway
@@ -3849,8 +3764,6 @@ https://locations.kfc.com/tx/mckinney/2030-w-university-dr
 https://locations.kfc.com/tx/mckinney/2920-w-eldorado-parkway
 https://locations.kfc.com/tx/mesquite/2118-n-galloway-ave
 https://locations.kfc.com/tx/mesquite/4400-gus-thomasson-rd
-https://locations.kfc.com/tx/midland/1814-n-midland-drive
-https://locations.kfc.com/tx/midland/4727-n-midkiff-drive
 https://locations.kfc.com/tx/north-richland-hills/5651-rufe-snow-dr-C771005
 https://locations.kfc.com/tx/north-richland-hills/5651-rufe-snow-dr-C771005- dupe
 https://locations.kfc.com/tx/north-richland-hills/5651-rufe-snow-dr-C771005-dupe- J417008
@@ -3876,7 +3789,6 @@ https://locations.kfc.com/tx/san-angelo/1402-north-bryant-blvd
 https://locations.kfc.com/tx/san-angelo/1801-s-bryant-boulevard
 https://locations.kfc.com/tx/san-antonio/11719-alamo-ranch-parkway
 https://locations.kfc.com/tx/san-antonio/11727-se-loop-410
-https://locations.kfc.com/tx/san-antonio/12050-blanco-road
 https://locations.kfc.com/tx/san-antonio/12530-sw-loop-410
 https://locations.kfc.com/tx/san-antonio/2110-goliad-rd
 https://locations.kfc.com/tx/san-antonio/2510-sw-military-drive
@@ -3884,10 +3796,7 @@ https://locations.kfc.com/tx/san-antonio/2907-thousand-oaks-drive
 https://locations.kfc.com/tx/san-antonio/3239-wurzbach-rd
 https://locations.kfc.com/tx/san-antonio/4711-w-commerce-st
 https://locations.kfc.com/tx/san-antonio/5109-walzem-road
-https://locations.kfc.com/tx/san-antonio/5211-de-zavala
-https://locations.kfc.com/tx/san-antonio/5315-rigsby-avenue
 https://locations.kfc.com/tx/san-antonio/6635-fm-78
-https://locations.kfc.com/tx/san-antonio/6807-military-drive-w
 https://locations.kfc.com/tx/san-antonio/6808-nw-loop-410
 https://locations.kfc.com/tx/san-antonio/7009-san-pedro-avenue
 https://locations.kfc.com/tx/san-antonio/738-seguin-street
@@ -3974,7 +3883,6 @@ https://locations.kfc.com/va/winchester/885-fox-drive
 https://locations.kfc.com/va/woodbridge/1307-devils-reach-rd
 https://locations.kfc.com/va/woodbridge/13565-minnieville-rd
 https://locations.kfc.com/wa/everett/227-128th-st-sw
-https://locations.kfc.com/wa/everett/2702-broadway
 https://locations.kfc.com/wa/everett/7407-evergreen-way
 https://locations.kfc.com/wa/federal-way/2300-sw-336th-st
 https://locations.kfc.com/wa/federal-way/34506-16th-avenue-s
@@ -3994,7 +3902,6 @@ https://locations.kfc.com/wa/seattle/9401-rainier-ave-s
 https://locations.kfc.com/wa/spokane/1812-northwest-boulevard
 https://locations.kfc.com/wa/spokane/2819-e-29th-street
 https://locations.kfc.com/wa/spokane/4016-north-division-street
-https://locations.kfc.com/wa/spokane/9229-division-street
 https://locations.kfc.com/wa/tacoma/11719-bridgeport-way
 https://locations.kfc.com/wa/tacoma/14522-pacific-avenue
 https://locations.kfc.com/wa/tacoma/2006-sixth-avenue

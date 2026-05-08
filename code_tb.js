@@ -22,7 +22,7 @@ async function crawlLinks(url, arrayToPush, linkIdentifier) {
             arrayToPush.push(fullLink);
         });
     } catch (error) {
-        fs.appendFile('./tbErrorLocations.txt', url + '\r\n', err => {
+        fs.appendFile('./locations/tacobell/tbErrorLocations.txt', url + '\r\n', err => {
             if (err) {
                 console.log(chalk.red(`Error writing to file tbErrorLocations.txt: ${err}`));
             }
@@ -42,18 +42,18 @@ async function fillUrlArray(fromArray, arrayToFill, linkIdentifier) {
 }
 
 async function bufferFunction() {
-    let tbAllLocations = fs.createWriteStream('tbAllLocations.txt');
+    let tbAllLocations = fs.createWriteStream('./locations/tacobell/tbAllLocations.txt');
     tbAllLocations.on('error', function(err) { console.log(chalk.red(err)); });
 
     for (const page of locations) {
         try {
             const response = await axios.get(page);
-            console.log("inside locations: " + page);
+            console.log("writing " + page + " to file");
             const $ = cheerio.load(response.data);
             const links = $('div.info-container > h1');
 
             if (links[0].children[0].data == 'Taco Bell / Pizza Hut') {
-                fs.appendFile('./tbPizzaHutLocations.txt', page + '\r\n', err => {
+                fs.appendFile('./locations/combos/tbPizzaHutLocations.txt', page + '\r\n', err => {
                     if (err) {
                         console.log(chalk.red(`Error writing to file tbErrorLocations.txt: ${err}`));
                     }
@@ -68,7 +68,7 @@ async function bufferFunction() {
     };
 }
 
-const crawler = async () => {
+export const crawler = async () => {
     try {
         await crawlLinks(tacoBellUrl, stateUrls, 'a.DirLinks[href]');
         await fillUrlArray(stateUrls, cityUrls, 'a.DirLinks[href]');
@@ -83,4 +83,4 @@ const crawler = async () => {
     }
 }
 
-crawler();
+// crawler();

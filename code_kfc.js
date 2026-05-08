@@ -27,7 +27,7 @@ async function crawlLinks(url, arrayToPush, linkIdentifier) {
             }
         });
     } catch (error) {
-        fs.appendFile('./kfcErrorLocations.txt', url + '\r\n', err => {
+        fs.appendFile('./locations/kfc/kfcErrorLocations.txt', url + '\r\n', err => {
             if (err) {
                 console.log(chalk.red(`Error writing to file kfcErrorLocations.txt: ${err}`));
             }
@@ -47,13 +47,13 @@ async function fillUrlArray(fromArray, arrayToFill, linkIdentifier) {
 }
 
 async function bufferFunction() {
-    let kfcAllLocations = fs.createWriteStream('kfcAllLocations.txt');
+    let kfcAllLocations = fs.createWriteStream('./locations/kfc/kfcAllLocations.txt');
     kfcAllLocations.on('error', function(err) { console.log(chalk.red(err)); });
 
     for (const page of locations) {
         try {
             const response = await axios.get(page);
-            console.log("inside locations: " + page);
+            console.log("writing " + page + " to file");
             const $ = cheerio.load(response.data);
             const links = $('div.info-container > h1');
 
@@ -64,7 +64,7 @@ async function bufferFunction() {
     };
 }
 
-const crawler = async () => {
+export const crawler = async () => {
     try {
         await crawlLinks(kfcUrl, stateUrls, 'a.Directory-listLink[href]');
         await fillUrlArray(stateUrls, cityUrls, 'a.Directory-listLink[href]');
@@ -79,4 +79,15 @@ const crawler = async () => {
     }
 }
 
-crawler();
+// crawler();
+
+// module.exports = {
+//     kfcUrl,
+//     stateUrls,
+//     cityUrls,
+//     locations,
+//     crawlLinks,
+//     fillUrlArray,
+//     bufferFunction,
+//     crawler
+// }
