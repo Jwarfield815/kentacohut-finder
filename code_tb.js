@@ -53,7 +53,7 @@ async function bufferFunction() {
             const links = $('div.info-container > h1');
 
             if (links[0].children[0].data == 'Taco Bell / Pizza Hut') {
-                fs.appendFile('./locations/combos/tbPizzaHutLocations.txt', page + '\r\n', err => {
+                fs.appendFile('./locations/combos/tacoBellPizzaHut.txt', page + '\r\n', err => {
                     if (err) {
                         console.log(chalk.red(`Error writing to file tbErrorLocations.txt: ${err}`));
                     }
@@ -63,7 +63,12 @@ async function bufferFunction() {
                 tbAllLocations.write(page + '\r\n');
             }
         } catch (error) {
-            console.log(chalk.red('darn'));
+            fs.appendFile('./locations/tacobell/tbErrorLocations.txt', page + '\r\n', err => {
+                if (err) {
+                    console.log(chalk.red(`Error writing to file tbErrorLocations.txt: ${err}`));
+                }
+            });
+            console.log(chalk.red(error));
         }
     };
 }
@@ -82,5 +87,3 @@ export const crawler = async () => {
         console.error(chalk.red(`Error fetching ${tacoBellUrl}: ${error.message}`));
     }
 }
-
-// crawler();

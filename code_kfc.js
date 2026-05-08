@@ -59,7 +59,12 @@ async function bufferFunction() {
 
             kfcAllLocations.write(page + '\r\n');
         } catch (error) {
-            console.log(chalk.red('darn'));
+            fs.appendFile('./locations/kfc/kfcErrorLocations.txt', page + '\r\n', err => {
+                if (err) {
+                    console.log(chalk.red(`Error writing to file kfcErrorLocations.txt: ${err}`));
+                }
+            });
+            console.log(chalk.red(error));
         }
     };
 }
@@ -78,16 +83,3 @@ export const crawler = async () => {
         console.error(chalk.red(`Error fetching ${kfcUrl}: ${error.message}`));
     }
 }
-
-// crawler();
-
-// module.exports = {
-//     kfcUrl,
-//     stateUrls,
-//     cityUrls,
-//     locations,
-//     crawlLinks,
-//     fillUrlArray,
-//     bufferFunction,
-//     crawler
-// }
