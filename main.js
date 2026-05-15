@@ -4,9 +4,7 @@ import fs from 'fs';
 import chalk from 'chalk';
 const fsp = fs.promises;
 
-import { crawler as kfc } from './code_kfc.js';
-import { crawler as tb } from './code_tb.js';
-import { crawler as ph } from './code_ph.js';
+import { crawler as all } from './restaurant_finder.js';
 import { fileChecker } from './check_addresses.js';
 
 const getCombos = async () => {
@@ -23,10 +21,10 @@ const getCombos = async () => {
     await fsp.writeFile("./locations/tacobell/tbErrorLocations.txt", "");
 
     // get all locations from each site's locations lists
-    await kfc();
-    await tb(); // automatically gets locations tagged as Taco Bell / Pizza Hut
-    await ph();
-
+    await all('a.Directory-listLink[href]', 'a.Directory-listLink[href]', 'h2 > a.Teaser-titleLink[href]', 'https://locations.kfc.com/', true, false, './locations/kfc/kfcErrorLocations.txt', './locations/kfc/kfcAllLocations.txt');
+    await all('a.DirLinks[href]', 'a.DirLinks[href]', 'h2 > a.Link[href]', 'https://locations.tacobell.com/', false, true, './locations/tacobell/tbErrorLocations.txt', './locations/tacobell/tbAllLocations.txt');
+    await all('.Container > .border > .grid > div > a.Link[href]', '.Container > .border > .grid > div > a.Link[href]', '.Container > .grid > .flex > a.mb-4[href]', 'https://locations.pizzahut.com/', false, false, './locations/pizzahut/phErrorLocations.txt', './locations/pizzahut/phAllLocations.txt');
+    
     // get locations with matching addresses and put them in their respective combination file
     fileChecker('./locations/pizzahut/phAllLocations.txt', './locations/kfc/kfcAllLocations.txt', './locations/combos/kfcPizzaHut.txt');
     fileChecker('./locations/kfc/kfcAllLocations.txt', './locations/tacobell/tbAllLocations.txt', './locations/combos/kfcTacoBell.txt');
@@ -45,7 +43,10 @@ getCombos();
 
 /*
     TODO
-        combine kfc(), tb(), and ph() into one function, callable with different arguments for urls and such
-        in code_tb.js, add a check for taco bell / kfc labelled locations, just like taco bell / pizza hut ones
-            see if these are labelled on the kfc or pizza hut sites too
+        make write for live mas cafes, taco bell cantinas, long john silvers, and a file for other weirdly labelled taco bells
+        Make site visual
+            website
+            progress bar
+            check boxes for which combo you want (can select multiple)
+        
 */

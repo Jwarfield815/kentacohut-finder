@@ -129,7 +129,6 @@ https://locations.kfc.com/ca/buena-park/6851-beach-blvd
 https://locations.kfc.com/ca/burbank/3530-w-victory-blvd
 https://locations.kfc.com/ca/calexico/213-east-cole-road
 https://locations.kfc.com/ca/camarillo/2350-las-posas-road
-https://locations.kfc.com/ca/campbell/1805-winchester-road
 https://locations.kfc.com/ca/canoga-park/21930-sherman-way
 https://locations.kfc.com/ca/canyon-country/19307-soledad-canyon-rd
 https://locations.kfc.com/ca/capitola/2120-41st-avenue
@@ -315,7 +314,6 @@ https://locations.kfc.com/co/commerce-city/5101-e-60th-avenue
 https://locations.kfc.com/co/cortez/2222-east-main-street
 https://locations.kfc.com/co/craig/707-west-victory-way
 https://locations.kfc.com/co/eaton/110-collins-street
-https://locations.kfc.com/co/falcon/7384-mclaughlin-rd
 https://locations.kfc.com/co/firestone/4335-city-centre-blvd
 https://locations.kfc.com/co/fort-carson/1533-prussman-boulevard
 https://locations.kfc.com/co/fountain/6660-camden-ave
@@ -1535,7 +1533,6 @@ https://locations.kfc.com/oh/hamilton/1001-northwest-washington-blvd
 https://locations.kfc.com/oh/harrison/10919-new-haven-road
 https://locations.kfc.com/oh/hartville/821-west-maple-street
 https://locations.kfc.com/oh/heath/780-south-30th-street
-https://locations.kfc.com/oh/hilliard/1785-hilliard-rome-rd
 https://locations.kfc.com/oh/hillsboro/301-chillicothe-ave
 https://locations.kfc.com/oh/holland/7150-orchard-centre-drive
 https://locations.kfc.com/oh/huber-heights/6494-brandt-pike
@@ -1816,6 +1813,7 @@ https://locations.kfc.com/sc/orangeburg/675-john-c-calhoun-drive
 https://locations.kfc.com/sc/pageland/206-s-van-l-mungo-boulevard
 https://locations.kfc.com/sc/pelzer/101-depot-road
 https://locations.kfc.com/sc/pickens/2809-gentry-memorial-highway
+https://locations.kfc.com/sc/piedmont/7418-augusta-road
 https://locations.kfc.com/sc/richburg/3062-lancaster-highway
 https://locations.kfc.com/sc/ridgeland/8146-east-main-st
 https://locations.kfc.com/sc/saint-george/5987-west-jim-bilton-blvd
@@ -2125,7 +2123,6 @@ https://locations.kfc.com/wa/bonney-lake/20601-highway-410
 https://locations.kfc.com/wa/bremerton/4000-wheaton-way
 https://locations.kfc.com/wa/burien/15209-1st-ave-south
 https://locations.kfc.com/wa/centralia/619-west-main-street
-https://locations.kfc.com/wa/colville/1520-n-highway-395
 https://locations.kfc.com/wa/covington/17425-se-272nd-st
 https://locations.kfc.com/wa/des-moines/25925-pacific-highway-south
 https://locations.kfc.com/wa/east-wenatchee/410-valley-mall-parkway
@@ -2499,7 +2496,6 @@ https://locations.kfc.com/ca/san-francisco/2040-ocean-avenue
 https://locations.kfc.com/ca/san-francisco/4150-geary-boulevard
 https://locations.kfc.com/ca/san-francisco/4285-mission-st
 https://locations.kfc.com/ca/san-francisco/691-eddy-street
-https://locations.kfc.com/ca/san-jose/2342-story-road
 https://locations.kfc.com/ca/san-jose/2415-south-king-road
 https://locations.kfc.com/ca/san-jose/250-north-bascom-avenue
 https://locations.kfc.com/ca/san-jose/2672-cropley-avenue
@@ -3568,8 +3564,6 @@ https://locations.kfc.com/sc/myrtle-beach/6100-north-kings-highway
 https://locations.kfc.com/sc/myrtle-beach/900-s-kings-hwy
 https://locations.kfc.com/sc/north-augusta/433-e-martintown-road
 https://locations.kfc.com/sc/north-augusta/4426-jefferson-davis-highway
-https://locations.kfc.com/sc/piedmont/3100-highway-153
-https://locations.kfc.com/sc/piedmont/7418-augusta-road
 https://locations.kfc.com/sc/rock-hill/1343-e-main-street
 https://locations.kfc.com/sc/rock-hill/1667-ebenezer-road
 https://locations.kfc.com/sc/rock-hill/869-north-anderson-road
@@ -3629,7 +3623,6 @@ https://locations.kfc.com/tn/nashville/1027-8th-ave-n
 https://locations.kfc.com/tn/nashville/2634-murfreesboro-road
 https://locations.kfc.com/tn/nashville/2910-clarksville-highway
 https://locations.kfc.com/tn/nashville/3035-dickerson-rd
-https://locations.kfc.com/tn/nashville/336-harding-pl
 https://locations.kfc.com/tn/nashville/541-donelson-pike
 https://locations.kfc.com/tx/abilene/1301-north-judge-ely-blvd
 https://locations.kfc.com/tx/abilene/4335-s-1st-street
